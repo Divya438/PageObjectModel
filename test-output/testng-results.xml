@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-03-25T18:55:08Z" name="Automation test Report" finished-at="2020-03-25T18:56:01Z" duration-ms="52160">
+    <groups>
+    </groups>
+    <test started-at="2020-03-25T18:55:08Z" name="IPhone Price Comaparator " finished-at="2020-03-25T18:56:01Z" duration-ms="52160">
+      <class name="com.divya.testcases.Tripadvisor">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.divya.testcases.Tripadvisor@60611244]" started-at="2020-03-26T00:25:08Z" name="setUp" finished-at="2020-03-26T00:25:43Z" duration-ms="34158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="homepageTripAdvisor()[pri:1, instance:com.divya.testcases.Tripadvisor@60611244]" started-at="2020-03-26T00:25:43Z" name="homepageTripAdvisor" finished-at="2020-03-26T00:25:43Z" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepageTripAdvisor -->
+        <test-method signature="enterNameSearchBox()[pri:2, instance:com.divya.testcases.Tripadvisor@60611244]" started-at="2020-03-26T00:25:43Z" name="enterNameSearchBox" finished-at="2020-03-26T00:25:46Z" duration-ms="3073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterNameSearchBox -->
+        <test-method signature="navigatefirst()[pri:3, instance:com.divya.testcases.Tripadvisor@60611244]" started-at="2020-03-26T00:25:46Z" name="navigatefirst" finished-at="2020-03-26T00:25:50Z" duration-ms="4323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigatefirst -->
+        <test-method signature="Review()[pri:4, instance:com.divya.testcases.Tripadvisor@60611244]" started-at="2020-03-26T00:25:50Z" name="Review" finished-at="2020-03-26T00:25:50Z" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Review -->
+        <test-method signature="rating()[pri:5, instance:com.divya.testcases.Tripadvisor@60611244]" started-at="2020-03-26T00:25:50Z" name="rating" finished-at="2020-03-26T00:25:56Z" duration-ms="5864" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rating -->
+        <test-method signature="title()[pri:6, instance:com.divya.testcases.Tripadvisor@60611244]" started-at="2020-03-26T00:25:56Z" name="title" finished-at="2020-03-26T00:25:59Z" duration-ms="3173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- title -->
+        <test-method signature="hotelrating()[pri:7, instance:com.divya.testcases.Tripadvisor@60611244]" started-at="2020-03-26T00:25:59Z" name="hotelrating" finished-at="2020-03-26T00:26:00Z" duration-ms="247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hotelrating -->
+        <test-method signature="submit()[pri:8, instance:com.divya.testcases.Tripadvisor@60611244]" started-at="2020-03-26T00:26:00Z" name="submit" finished-at="2020-03-26T00:26:00Z" duration-ms="221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submit -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.divya.testcases.Tripadvisor@60611244]" started-at="2020-03-26T00:26:00Z" name="tearDown" finished-at="2020-03-26T00:26:01Z" duration-ms="833" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.divya.testcases.Tripadvisor -->
+    </test> <!-- IPhone Price Comaparator  -->
+  </suite> <!-- Automation test Report -->
+</testng-results>
